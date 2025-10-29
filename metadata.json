@@ -1,0 +1,5 @@
+{
+  "name": "Hostel Management System",
+  "description": "A comprehensive web application to streamline the management of a college hostel. It provides separate dashboards for administrators and students to manage rooms, students, fees, visitors, and complaints efficiently.",
+  "requestFramePermissions": []
+}
