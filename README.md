@@ -1,5 +1,4 @@
-
-# Run and deploy your AI Studio app
+**College Hostel Management and System**
 
 This contains everything you need to run your app locally.
 
